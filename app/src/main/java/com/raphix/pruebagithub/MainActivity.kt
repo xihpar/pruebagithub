@@ -21,6 +21,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
-
-//cambio
